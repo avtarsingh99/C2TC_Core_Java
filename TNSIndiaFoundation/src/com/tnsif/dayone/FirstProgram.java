@@ -1,5 +1,5 @@
 package com.tnsif.dayone;
-// first program of JAVA programming
+// first program of JAVA 1
 import java.util.Scanner;
 
 public class FirstProgram {
