@@ -1,5 +1,5 @@
 package com.tnsif.dayone;
-// first program of JAVA 1
+// first program of JAVA - Eclipse reinstalled
 import java.util.Scanner;
 
 public class FirstProgram {
